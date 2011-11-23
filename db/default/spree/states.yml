@@ -1,0 +1,111 @@
+---
+spree_states_052:
+  id: 1061493586
+  name: 基隆市
+  abbr: 基隆市
+  country_id: 197
+spree_states_053:
+  id: 1061493587
+  name: 台北市
+  abbr: 台北市
+  country_id: 197
+spree_states_054:
+  id: 1061493588
+  name: 新北市
+  abbr: 新北市
+  country_id: 197
+spree_states_055:
+  id: 1061493589
+  name: 桃園縣
+  abbr: 桃園縣
+  country_id: 197
+spree_states_056:
+  id: 1061493590
+  name: 新竹市
+  abbr: 新竹市
+  country_id: 197
+spree_states_057:
+  id: 1061493591
+  name: 新竹縣
+  abbr: 新竹縣
+  country_id: 197
+spree_states_058:
+  id: 1061493592
+  name: 苗栗縣
+  abbr: 苗栗縣
+  country_id: 197
+spree_states_059:
+  id: 1061493593
+  name: 台中市
+  abbr: 台中市
+  country_id: 197
+spree_states_060:
+  id: 1061493594
+  name: 彰化縣
+  abbr: 彰化縣
+  country_id: 197
+spree_states_061:
+  id: 1061493595
+  name: 南投縣
+  abbr: 南投縣
+  country_id: 197
+spree_states_062:
+  id: 1061493596
+  name: 雲林縣
+  abbr: 雲林縣
+  country_id: 197
+spree_states_063:
+  id: 1061493597
+  name: 嘉義市
+  abbr: 嘉義市
+  country_id: 197
+spree_states_064:
+  id: 1061493598
+  name: 嘉義縣
+  abbr: 嘉義縣
+  country_id: 197
+spree_states_065:
+  id: 1061493599
+  name: 台南市
+  abbr: 台南市
+  country_id: 197
+spree_states_066:
+  id: 1061493600
+  name: 高雄市
+  abbr: 高雄市
+  country_id: 197
+spree_states_067:
+  id: 1061493601
+  name: 屏東縣
+  abbr: 屏東縣
+  country_id: 197
+spree_states_068:
+  id: 1061493602
+  name: 台東縣
+  abbr: 台東縣
+  country_id: 197
+spree_states_069:
+  id: 1061493603
+  name: 花蓮縣
+  abbr: 花蓮縣
+  country_id: 197
+spree_states_070:
+  id: 1061493604
+  name: 宜蘭縣
+  abbr: 宜蘭縣
+  country_id: 197
+spree_states_071:
+  id: 1061493605
+  name: 澎湖縣
+  abbr: 澎湖縣
+  country_id: 197
+spree_states_072:
+  id: 1061493606
+  name: 金門縣
+  abbr: 金門縣
+  country_id: 197
+spree_states_073:
+  id: 1061493607
+  name: 連江縣
+  abbr: 連江縣
+  country_id: 197
