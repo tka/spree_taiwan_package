@@ -21,3 +21,5 @@ run
 `bundle update`
 
 `bundle exec rake db:bootstrap`
+
+`bundle exec rake spree:taiwan_package:update_spree_preferences`
